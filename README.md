@@ -1,10 +1,10 @@
-<h1 align="center">Hi, I'm Chaitanya Krishna Sree 👋</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Aspiring+AI%2FML+Engineer;Building+Multi-Agent+Systems;LangGraph+%2B+Google+ADK+%2B+MCP;Always+Learning+Something+New"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d&height=200&section=header&text=Chaitanya%20Krishna%20Sree&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20AI%2FML%20Engineer&descAlignY=55&descSize=18"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:667eea,100:764ba2&height=100&section=header"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=764ABC&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;Multi-Agent+Systems+%26+Applied+ML;LangGraph+%2B+Google+ADK+%2B+MCP"/>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/chaitanya-krishna-sree-8ba603324/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -86,4 +86,4 @@
 
 <p align="center"><i>Open to AI/ML Engineer roles. Happy to discuss multi-agent systems, applied ML, and NLP pipelines.</i></p>
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:764ba2,100:667eea&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38ef7d,100:11998e&height=100&section=footer"/>
