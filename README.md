@@ -1,6 +1,10 @@
+<h1 align="center">Hi, I'm Chaitanya Krishna Sree 👋</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=180&text=Chaitanya%20Krishna%20Sree&fontSize=38&fontColor=ffffff&fontAlignY=45&desc=Aspiring%20AI/ML%20Engineer%20%7C%20Multi-Agent%20Systems%20%26%20Applied%20ML&descAlignY=70&descSize=15&descColor=cfd8dc"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Aspiring+AI%2FML+Engineer;Building+Multi-Agent+Systems;LangGraph+%2B+Google+ADK+%2B+MCP;Always+Learning+Something+New"/>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:667eea,100:764ba2&height=100&section=header"/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/chaitanya-krishna-sree-8ba603324/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -23,25 +27,25 @@
 ### Featured Projects
 
 **LoanShield** — Multi-agent lending risk analysis platform. 5 coordinated agents (Orchestrator, Gatekeeper, Financial, Fraud, Explanations), ECOA-compliant adverse action letters, 54-scenario end-to-end test suite, real-time SSE workflow visualization.
-`LangGraph` `Google ADK` `MCP Servers` `Python`
+![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square) ![Google ADK](https://img.shields.io/badge/-Google_ADK-4285F4?style=flat-square&logo=google&logoColor=white) ![MCP](https://img.shields.io/badge/-MCP-000000?style=flat-square) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 **Omni.Ai** — Django NLP platform: login-secured text/document/audio summarization + translation. Dual pipeline (NLTK extractive fallback + HuggingFace T5-small abstractive), speech-to-text via librosa, deep-translator for translation.
-`Django` `HuggingFace Transformers` `NLTK` `librosa` `MySQL/SQLite`
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) ![HuggingFace](https://img.shields.io/badge/-Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![NLTK](https://img.shields.io/badge/-NLTK-3776AB?style=flat-square) ![MySQL](https://img.shields.io/badge/-MySQL/SQLite-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **HRMS** — Full HR management system with password + face-recognition login, role-based dashboards, attendance/leave/payroll modules, and Plotly-driven analytics.
-`Streamlit` `OpenCV` `dlib` `face_recognition` `SQLAlchemy` `PostgreSQL/SQLite`
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![dlib](https://img.shields.io/badge/-dlib-1E90FF?style=flat-square) ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL/SQLite-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 **Hospital Readmission Predictor** — Predicts 30-day diabetic patient readmission from 25,000 hospital records. Compared 5 classifiers; champion Gradient Boosting hit **ROC-AUC 0.657**, with SHAP-based explainability.
-`Scikit-learn` `XGBoost` `SHAP` `Pandas`
+![Scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![XGBoost](https://img.shields.io/badge/-XGBoost-EB5B25?style=flat-square) ![SHAP](https://img.shields.io/badge/-SHAP-8A2BE2?style=flat-square) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 **Hospital Bed Forecaster** — Forecasts daily occupancy across 5 hospital departments from 7,500+ rows of data. Tuned XGBoost is the production model at **R² 0.9988**.
-`XGBoost` `Prophet` `Scikit-learn` `Streamlit`
+![XGBoost](https://img.shields.io/badge/-XGBoost-EB5B25?style=flat-square) ![Prophet](https://img.shields.io/badge/-Prophet-0052CC?style=flat-square) ![Scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 **CUA using MAF / CUA-News** — Local-LLM desktop automation agents built on Microsoft Agent Framework + Ollama, using `pywinauto` for Windows UI control and Playwright for news scraping/summarization.
-`Microsoft Agent Framework` `Ollama` `Playwright` `pywinauto`
+![Microsoft Agent Framework](https://img.shields.io/badge/-Microsoft_Agent_Framework-00A4EF?style=flat-square&logo=microsoft&logoColor=white) ![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square) ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 **Health Hub AI** — Health tracking dashboard with real-time scoring and 7/30-day analytics from CSV/JSON/Excel uploads.
-`Streamlit` `Pandas` `NumPy` `Matplotlib` `Seaborn`
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square)
 
 ---
 
@@ -80,8 +84,6 @@
 
 ---
 
-Open to AI/ML Engineer roles. Happy to discuss multi-agent systems, applied ML, and NLP pipelines.
+<p align="center"><i>Open to AI/ML Engineer roles. Happy to discuss multi-agent systems, applied ML, and NLP pipelines.</i></p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,50:203a43,100:0f2027&height=80&section=footer"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:764ba2,100:667eea&height=100&section=footer"/>
