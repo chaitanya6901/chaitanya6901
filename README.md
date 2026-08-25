@@ -24,35 +24,39 @@
 
 ---
 
+
+### GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=chaitanya6901&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=chaitanya6901&theme=radical&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanya6901&layout=compact&theme=radical&hide_border=true"/>
+</p>
+
+---
+
 ### Featured Projects
 
-**LoanShield** — Multi-agent lending risk analysis platform. 5 coordinated agents (Orchestrator, Gatekeeper, Financial, Fraud, Explanations), ECOA-compliant adverse action letters, 54-scenario end-to-end test suite, real-time SSE workflow visualization.
-![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square) ![Google ADK](https://img.shields.io/badge/-Google_ADK-4285F4?style=flat-square&logo=google&logoColor=white) ![MCP](https://img.shields.io/badge/-MCP-000000?style=flat-square) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+| Project | Description | Tech Stack |
+|---|---|---|
+| **[LoanShield](https://github.com/chaitanya6901/Loan-shield)** | Multi-agent lending risk analysis platform. 5 coordinated agents, ECOA-compliant adverse action letters, 54-scenario test suite. | ![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square) ![Google ADK](https://img.shields.io/badge/-Google_ADK-4285F4?style=flat-square&logo=google&logoColor=white) ![MCP](https://img.shields.io/badge/-MCP-000000?style=flat-square) |
+| **[Omni.Ai](https://github.com/chaitanya6901/Omni.Ai)** | Django NLP platform — login-secured text/document/audio summarization + translation. Dual pipeline (NLTK + T5-small). | ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) ![HuggingFace](https://img.shields.io/badge/-Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black) |
+| **[HRMS](https://github.com/chaitanya6901/HRMS-)** | HR management system with password + face-recognition login, role-based dashboards, Plotly analytics. | ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![dlib](https://img.shields.io/badge/-dlib-1E90FF?style=flat-square) |
+| **[Hospital Readmission Predictor](https://github.com/chaitanya6901/Hospital_readmission)** | Predicts 30-day diabetic readmission risk. Champion Gradient Boosting — **ROC-AUC 0.657**, SHAP explainability. | ![Scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![XGBoost](https://img.shields.io/badge/-XGBoost-EB5B25?style=flat-square) |
+| **[Hospital Bed Forecaster](https://github.com/chaitanya6901/Hospital_bed_forecaster)** | Forecasts daily bed occupancy across 5 departments. Tuned XGBoost — **R² 0.9988**. | ![XGBoost](https://img.shields.io/badge/-XGBoost-EB5B25?style=flat-square) ![Prophet](https://img.shields.io/badge/-Prophet-0052CC?style=flat-square) |
+| **[CUA-News](https://github.com/chaitanya6901/CUA-News)** | Local-LLM desktop agent — opens, extracts, and summarizes news via Microsoft Agent Framework. | ![Microsoft Agent Framework](https://img.shields.io/badge/-MS_Agent_Framework-00A4EF?style=flat-square&logo=microsoft&logoColor=white) ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) |
+| **[Health Hub AI](https://github.com/chaitanya6901/HealthHub-AI)** | AI health platform with a Gemini-powered chat assistant, multi-profile accounts, workout tracking with streaks, and exercise/diet insights from CSV/JSON/Excel uploads. | ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Gemini API](https://img.shields.io/badge/-Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) |
 
-**Omni.Ai** — Django NLP platform: login-secured text/document/audio summarization + translation. Dual pipeline (NLTK extractive fallback + HuggingFace T5-small abstractive), speech-to-text via librosa, deep-translator for translation.
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) ![HuggingFace](https://img.shields.io/badge/-Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![NLTK](https://img.shields.io/badge/-NLTK-3776AB?style=flat-square) ![MySQL](https://img.shields.io/badge/-MySQL/SQLite-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**HRMS** — Full HR management system with password + face-recognition login, role-based dashboards, attendance/leave/payroll modules, and Plotly-driven analytics.
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![dlib](https://img.shields.io/badge/-dlib-1E90FF?style=flat-square) ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL/SQLite-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-**Hospital Readmission Predictor** — Predicts 30-day diabetic patient readmission from 25,000 hospital records. Compared 5 classifiers; champion Gradient Boosting hit **ROC-AUC 0.657**, with SHAP-based explainability.
-![Scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![XGBoost](https://img.shields.io/badge/-XGBoost-EB5B25?style=flat-square) ![SHAP](https://img.shields.io/badge/-SHAP-8A2BE2?style=flat-square) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
-**Hospital Bed Forecaster** — Forecasts daily occupancy across 5 hospital departments from 7,500+ rows of data. Tuned XGBoost is the production model at **R² 0.9988**.
-![XGBoost](https://img.shields.io/badge/-XGBoost-EB5B25?style=flat-square) ![Prophet](https://img.shields.io/badge/-Prophet-0052CC?style=flat-square) ![Scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
-**CUA using MAF / CUA-News** — Local-LLM desktop automation agents built on Microsoft Agent Framework + Ollama, using `pywinauto` for Windows UI control and Playwright for news scraping/summarization.
-![Microsoft Agent Framework](https://img.shields.io/badge/-Microsoft_Agent_Framework-00A4EF?style=flat-square&logo=microsoft&logoColor=white) ![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square) ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-**Health Hub AI** — Health tracking dashboard with real-time scoring and 7/30-day analytics from CSV/JSON/Excel uploads.
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square)
 
 ---
 
 ### Tech Stack
 
 **Languages**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Frontend**
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
