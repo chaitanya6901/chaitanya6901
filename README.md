@@ -51,21 +51,37 @@
 ### Tech Stack
 
 **Languages**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Frontend**
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Frameworks**
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+**Multi-Agent & Orchestration**
+![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=for-the-badge) ![Google ADK](https://img.shields.io/badge/-Google_ADK-4285F4?style=for-the-badge&logo=google&logoColor=white) ![MCP](https://img.shields.io/badge/-MCP-000000?style=for-the-badge) ![Microsoft Agent Framework](https://img.shields.io/badge/-Microsoft_Agent_Framework-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white) ![Ollama](https://img.shields.io/badge/-Ollama-000000?style=for-the-badge) ![pywinauto](https://img.shields.io/badge/-pywinauto-306998?style=for-the-badge)
 
-**Tools**
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+**Web Frameworks**
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-**AI/ML Fundamentals**
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![XGBoost](https://img.shields.io/badge/-XGBoost-EB5B25?style=for-the-badge) ![dlib](https://img.shields.io/badge/-dlib-1E90FF?style=for-the-badge) ![Deep Learning](https://img.shields.io/badge/-Deep_Learning-FF6F00?style=for-the-badge) ![Generative AI](https://img.shields.io/badge/-Generative_AI-8A2BE2?style=for-the-badge) ![NLP](https://img.shields.io/badge/-NLP-00A67E?style=for-the-badge) ![Microsoft Agent Framework](https://img.shields.io/badge/-Microsoft_Agent_Framework-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white)
+**Machine Learning**
+![Scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![XGBoost](https://img.shields.io/badge/-XGBoost-EB5B25?style=for-the-badge) ![SHAP](https://img.shields.io/badge/-SHAP-8A2BE2?style=for-the-badge) ![Prophet](https://img.shields.io/badge/-Prophet-0052CC?style=for-the-badge)
+
+**NLP & Generative AI**
+![HuggingFace](https://img.shields.io/badge/-HuggingFace_Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) ![NLTK](https://img.shields.io/badge/-NLTK-3776AB?style=for-the-badge) ![Gemini API](https://img.shields.io/badge/-Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+
+**Computer Vision**
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![dlib](https://img.shields.io/badge/-dlib-1E90FF?style=for-the-badge)
+
+**Data & Visualization**
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge) ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=for-the-badge) ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+
+**Automation & Scraping**
+![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+
+**Security & Documents**
+![bcrypt](https://img.shields.io/badge/-bcrypt-338033?style=for-the-badge)
 
 ---
+
 
 ### Certifications
 - Code Unnati Program — SAP CSR initiative, Edunet Foundation (2024–25)
